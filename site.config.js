@@ -8,15 +8,15 @@ const CONFIG = {
     email: "eyelighthyeok@gmail.com",
     linkedin: "",
     github: "",
-    instagram: "",
+    instagram: "eyelight.kitchen",
   },
   // 서비스 영역
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+  //projects: [
+  //  {
+  //    name: `morethan-log`,
+  //    href: "https://github.com/morethanmin/morethan-log",
+  //  },
+  //],
   // blog setting (required)
   blog: {
     title: "eyelighthyeok_blog",
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://firstnotionblog.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
