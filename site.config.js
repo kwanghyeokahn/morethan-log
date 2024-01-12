@@ -11,12 +11,12 @@ const CONFIG = {
     instagram: "eyelight.kitchen",
   },
   // 서비스 영역
-  //projects: [
-  //  {
-  //    name: `morethan-log`,
-  //    href: "https://github.com/morethanmin/morethan-log",
-  //  },
-  //],
+  projects: [
+    {
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "eyelighthyeok_blog",
