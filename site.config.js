@@ -13,8 +13,8 @@ const CONFIG = {
   // 서비스 영역
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `eyelight_github`,
+      href: "https://github.com/kwanghyheokahn",
     },
   ],
   // blog setting (required)
