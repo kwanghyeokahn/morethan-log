@@ -14,7 +14,7 @@ const CONFIG = {
   projects: [
     {
       name: `eyelight_github`,
-      href: "https://github.com/kwanghyheokahn",
+      href: "https://github.com/kwanghyeokahn",
     },
   ],
   // blog setting (required)
