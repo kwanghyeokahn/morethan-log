@@ -3,7 +3,9 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://eyelight-log.vercel.app
+Host: https://morethan-log.vercel.app
+## https://eyelight-log.vercel.app
 
 # Sitemaps
-Sitemap: https://eyelight-log.vercel.app/sitemap.xml
+Sitemap: https://morethan-log.vercel.app/sitemap.xml
+## https://eyelight-log.vercel.app/sitemap.xml
