@@ -5,40 +5,53 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://eyelight-log.vercel.app/</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://eyelight-log.vercel.app/about</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://eyelight-log.vercel.app/naver4e70ceb2ef0a36fc349fc7636e3c4637.html</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://eyelight-log.vercel.app/python-env-dev</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <loc>https://eyelight-log.vercel.app/python-error-nomodule</loc>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eyelight-log.vercel.app/python-project-planning</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eyelight-log.vercel.app/recipe-steamed-pork</loc>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eyelight-log.vercel.app/recipe-salmon-carpaccio</loc>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eyelight-log.vercel.app/python-env-dev</loc>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eyelight-log.vercel.app/recipe-pork-steak</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://eyelight-log.vercel.app/recipe-egg-mayo</loc>
-  <lastmod>2024-01-16T06:51:29+00:00</lastmod>
+  <lastmod>2024-01-19T05:14:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
 
 </urlset>
