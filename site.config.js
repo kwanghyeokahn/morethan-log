@@ -20,7 +20,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "eyelighthyeok_blog",
-    description: "welcome to eyelighthyeok_blog!",
+    description: "내가 좋아서 만들고 작성하고 기록하는 코딩,요리 블로그💻🍴",
   },
 
   // CONFIG configration (required)
