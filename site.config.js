@@ -30,8 +30,10 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo : {
-    keywords: ["Blog","website","Notion","vercel","morethan-log","Python","Recipe","eyelight-log","DataScience",
-               "파이썬","노션","데이터분석","AI","요리"]
+    keywords: ["Blog","website","Notion","vercel","morethan-log","Python","eyelight-log","DataScience",
+               "Recipe","Main","Appetizer","Desert"
+               "파이썬","노션","데이터분석","AI","데이터과학","분석기법"
+               ,"요리","코스요리","메인요리","에피타이저","디저트"]
   },
   // notion configuration (required)
   notionConfig: {
