@@ -45,7 +45,6 @@ const CONFIG = {
     enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
-      //measurementId: "G-4SKPFD8MGJ",
     },
   },
   googleSearchConsole: {
@@ -64,7 +63,6 @@ const CONFIG = {
     enable: true,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
-      //repo: "kwanghyeokahn/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
